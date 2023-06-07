@@ -1,0 +1,16 @@
+C:\Users\Lisas\Documents\GitHub\xCheats\xCheats Helper\bin\x64\Debug\netstandard2.0\xCheats Helper.deps.json
+C:\Users\Lisas\Documents\GitHub\xCheats\xCheats Helper\bin\x64\Debug\netstandard2.0\xCheats Helper.dll
+C:\Users\Lisas\Documents\GitHub\xCheats\xCheats Helper\obj\x64\Debug\netstandard2.0\xCheats Helper.csproj.AssemblyReference.cache
+C:\Users\Lisas\Documents\GitHub\xCheats\xCheats Helper\obj\x64\Debug\netstandard2.0\xCheats Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisas\Documents\GitHub\xCheats\xCheats Helper\obj\x64\Debug\netstandard2.0\xCheats Helper.AssemblyInfoInputs.cache
+C:\Users\Lisas\Documents\GitHub\xCheats\xCheats Helper\obj\x64\Debug\netstandard2.0\xCheats Helper.AssemblyInfo.cs
+C:\Users\Lisas\Documents\GitHub\xCheats\xCheats Helper\obj\x64\Debug\netstandard2.0\xCheats Helper.csproj.CoreCompileInputs.cache
+C:\Users\Lisas\Documents\GitHub\xCheats\xCheats Helper\obj\x64\Debug\netstandard2.0\xCheats Helper.dll
+C:\Users\Lisas\Source\Repos\CelinaxCute\xCheats\xCheats Helper\bin\x64\Debug\netstandard2.0\xCheats Helper.deps.json
+C:\Users\Lisas\Source\Repos\CelinaxCute\xCheats\xCheats Helper\bin\x64\Debug\netstandard2.0\xCheats Helper.dll
+C:\Users\Lisas\Source\Repos\CelinaxCute\xCheats\xCheats Helper\obj\x64\Debug\netstandard2.0\xCheats Helper.csproj.AssemblyReference.cache
+C:\Users\Lisas\Source\Repos\CelinaxCute\xCheats\xCheats Helper\obj\x64\Debug\netstandard2.0\xCheats Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisas\Source\Repos\CelinaxCute\xCheats\xCheats Helper\obj\x64\Debug\netstandard2.0\xCheats Helper.AssemblyInfoInputs.cache
+C:\Users\Lisas\Source\Repos\CelinaxCute\xCheats\xCheats Helper\obj\x64\Debug\netstandard2.0\xCheats Helper.AssemblyInfo.cs
+C:\Users\Lisas\Source\Repos\CelinaxCute\xCheats\xCheats Helper\obj\x64\Debug\netstandard2.0\xCheats Helper.csproj.CoreCompileInputs.cache
+C:\Users\Lisas\Source\Repos\CelinaxCute\xCheats\xCheats Helper\obj\x64\Debug\netstandard2.0\xCheats Helper.dll

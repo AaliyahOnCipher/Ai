@@ -1,0 +1,8 @@
+D:\Backup\source\repos\xCheats\xCheats Helper\bin\x64\Release\netstandard2.1\xCheats Helper.deps.json
+D:\Backup\source\repos\xCheats\xCheats Helper\bin\x64\Release\netstandard2.1\xCheats Helper.dll
+D:\Backup\source\repos\xCheats\xCheats Helper\obj\x64\Release\netstandard2.1\xCheats Helper.csproj.AssemblyReference.cache
+D:\Backup\source\repos\xCheats\xCheats Helper\obj\x64\Release\netstandard2.1\xCheats Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\source\repos\xCheats\xCheats Helper\obj\x64\Release\netstandard2.1\xCheats Helper.AssemblyInfoInputs.cache
+D:\Backup\source\repos\xCheats\xCheats Helper\obj\x64\Release\netstandard2.1\xCheats Helper.AssemblyInfo.cs
+D:\Backup\source\repos\xCheats\xCheats Helper\obj\x64\Release\netstandard2.1\xCheats Helper.csproj.CoreCompileInputs.cache
+D:\Backup\source\repos\xCheats\xCheats Helper\obj\x64\Release\netstandard2.1\xCheats Helper.dll
